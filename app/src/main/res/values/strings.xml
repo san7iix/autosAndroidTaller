@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppAutos</string>
+    <string name="brand">Marca</string>
+    <string name="Model">Modelo</string>
+    <string name="plate">Matricula</string>
+    <string name="text_view_modelo">Modelo:</string>
+    <string name="text_view_matricula">Matrícula:</string>
+    <string name="text_view_marca">Marca:</string>
+    <string name="boton">Agregar</string>
+</resources>
